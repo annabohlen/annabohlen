@@ -5,11 +5,10 @@ I'm a student at the University of Notre Dame studying Theology with minors in D
 ## About Me
 - 🎓 Currently taking Introduction to Data Science
 - 🌱 Learning Python, pandas, and data visualization
+- 🙏 Passionate about using data science to support evangelization efforts in the Catholic Church
+- 📚 Loves to read, sing in choir, and hike outdoors
 - 📫 How to reach me: abohlen@nd.edu
 
-## Interests
-- Theology
-- Reading
-- Performing Arts
-- Hiking
--->
+## Skills
+- Python
+- Microsoft Excel
