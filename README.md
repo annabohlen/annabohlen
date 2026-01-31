@@ -12,3 +12,7 @@ I'm a student at the University of Notre Dame studying Theology with minors in D
 ## Skills
 - Python
 - Microsoft Excel
+
+## Contact Me
+- 📫 abohlen@nd.edu
+- LinkedIn: annabohlen
