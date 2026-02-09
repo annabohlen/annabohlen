@@ -4,7 +4,7 @@ I'm a student at the University of Notre Dame studying Theology with minors in D
 
 ## About Me
 - 🎓 Currently taking [Introduction to Data Science](https://github.com/annabohlen/Bohlen-Data-Science-Portfolio/tree/main)
-- 🌱 Learning Python, pandas, and data visualization
+- 🌱 Learning Python, pandas, and data visualization. Hoping to become an effective data storyteller.
 - 🙏 Passionate about using data science to support evangelization efforts in the Catholic Church
 - 📚 Loves to read, sing in choir, and hike outdoors
 - 📫 How to reach me: abohlen@nd.edu
@@ -15,4 +15,4 @@ I'm a student at the University of Notre Dame studying Theology with minors in D
 
 ## Contact Me
 - 📫 abohlen@nd.edu
-- LinkedIn: annabohlen
+- LinkedIn: [annabohlen](https://www.linkedin.com/in/anna-bohlen-605181325/)
